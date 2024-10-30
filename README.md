@@ -18,10 +18,10 @@ End the program
 #Developed by: AGILAN J
 #RegisterNumber: 24900503
 
-import numpy as np
-a=np.array([[6,2,3],[3,1,1],[10,3,4]])
-result=np.linalg.inv(a)
-print(result)
+    import numpy as np
+    a=np.array([[6,2,3],[3,1,1],[10,3,4]])
+    result=np.linalg.inv(a)
+    print(result)
 
 ## Output:
 ![result pic](resultexp3.png)
