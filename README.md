@@ -6,23 +6,28 @@ To write a python program to find the inverse of a matrix
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1 : 
-### Step 2: 
-### Step 3: 
+Import numpy as convienience variable
+### Step 2:
+ Let assume any variable
+### Step 3:
+ Using the np.linalg.matrix_rank(),we can find the rankof the given matrix
 ### Step 4: 
-
+Print result.
 ## Program:
 ```
-Developed by: Kamalesh y
-Register Number:24004024
-
+#python program to find the inverse of a matrix
+#Developed by: Kamalesh y
+#Register no:24004024
+```
+```
 import numpy as np
-c=np.array([[2,1,1],[1,1,1],[1,-1,2]])
-b=np.linalg.inv(c)
-print(b)
+A = np.array([[6,2,3],[3,1,1],[10,3,4]])
+B = np.linalg.inv(A)
+print(B)
 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/be7b8ec9-040d-451b-a1b1-a1fb8f8f8f86)
+![Screenshot 2024-11-11 133555](https://github.com/user-attachments/assets/b7a0935c-eb9e-4813-904a-e85da943486d)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
