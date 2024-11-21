@@ -13,8 +13,8 @@ To write a python program to find the inverse of a matrix
 ## Program:
 ```Python
 #Program to find the inverse of a matrix.
-#Developed by:Abinaya.A 
-#RegisterNumber:24900474
+#Developed by:AANKARSH
+#RegisterNumber:24013602
 import numpy as np
 a=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 res=np.linalg.inv(a)
