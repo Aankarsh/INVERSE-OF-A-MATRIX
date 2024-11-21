@@ -16,8 +16,8 @@ Print result.
 ## Program:
 ```
 #python program to find the inverse of a matrix
-#Developed by: Kamalesh y
-#Register no:24004024
+#Developed by: AANKARSH
+#Register no: 24013602
 ```
 ```
 import numpy as np
