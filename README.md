@@ -15,8 +15,8 @@ usethe np.linalg.inv(), we can find the solution.
 End the program
 ## Program:
 #Program to find the inverse of a matrix.
-#Developed by: AGILAN J
-#RegisterNumber: 24900503
+#Developed by: AANKARSH
+#RegisterNumber: 24013602
 
     import numpy as np
     a=np.array([[6,2,3],[3,1,1],[10,3,4]])
@@ -24,7 +24,8 @@ End the program
     print(result)
 
 ## Output:
-![result pic](resultexp3.png)
+![Screenshot 2024-11-23 131513](https://github.com/user-attachments/assets/ae8b9965-768d-4dc9-ab88-8ef988f2802c)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
